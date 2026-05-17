@@ -1,1 +1,4 @@
-This is GCP cloud
+x=7
+y=10
+z=x+y
+now the data is z=17
